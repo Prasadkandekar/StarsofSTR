@@ -1,6 +1,4 @@
 # StarsofSTR
 
-Raunak Mishra
-
-
+Shreyash Charkhe
 
